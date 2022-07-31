@@ -8,12 +8,10 @@ This project was made by: [@brunosoares99](https://github.com/brunosoares99).
 
 ## Some Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
-![Screenshot 4]()
-![Screenshot 5]()
-![Screenshot 6]()
+![Screenshot 1](https://github.com/brunosoares99/discord-clone/blob/main/screenshots/Screenshot_1.png)
+![Screenshot 2](https://github.com/brunosoares99/discord-clone/blob/main/screenshots/Screenshot_2.png)
+![Screenshot 3](https://github.com/brunosoares99/discord-clone/blob/main/screenshots/Screenshot_3.png)
+![Screenshot 4](https://github.com/brunosoares99/discord-clone/blob/main/screenshots/Screenshot_4.png)
 
 
 
